@@ -163,13 +163,15 @@ body {
     text-align: justify;
 }
 
-.skills__header {
+.skills__header,
+.autobiography__header {
     color: var(--secondary-text-color);
     text-align: center;
     margin-bottom: 15px;
 }
 
-.skills__text {
+.skills__text,
+.autobiography__text {
     color: var(--secondary-text-color);
     text-align: justify;
 }
